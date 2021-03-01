@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  {{- partial "head" . -}}
+  {{- partial "style" . -}}
+  {{- block "addstyle" . }}{{- end }}
+</head>
+
+<body>
+
+  <header>
+    {{- partial "nav" . -}}
+  </header>
+
+  <main>
+    {{- block "main" . }}
+
+    {{ .Content }}
+
+    {{- end }}
+
+    <footer class="container">
+      {{- partial "footer" . -}}
+    </footer>
+  </main>
+
+  {{- partial "script" . -}}
+  {{- block "addscript" . }}{{- end }}
+</body>
+
+</html>
