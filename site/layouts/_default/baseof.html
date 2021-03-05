@@ -7,36 +7,25 @@
 
 <body>
 
-  <header class="conteiner-fluid sticky-top shadow">
+  <header class="bd-header conteiner-fluid shadow">
     {{- partial "header" . -}}
   </header>
 
-  <div class="container-fluid">
-    <div class="row mt-5 mx-4">
+  <aside class="bd-aside sticky-xl-top align-self-start mb-3 ms-xl-5 shadow">
+    {{- partial "sidebar" . -}}
+  </aside>
 
-      <div class="col-2">
-        <aside>
-          {{- partial "sidebar" . -}}
-        </aside>
-      </div>
+  <main class="bd-main bg-white px-3 px-xl-5 pb-5 shadow">
+    {{- block "main" . }}
+    {{ .Content }}
+    {{- end }}
+  </main>
 
-      <div class="col-8 mx-4">
-        <main class="container bg-white px-5 pt-1 pb-5 shadow">
-          {{- block "main" . }}
-            {{ .Content }}
-          {{- end }}
-        </main>
-      </div>
-
-    </div>
-  </div>
-
-  <footer class="container-fluid">
+  <footer class="bd-footer bg-dark text-muted text-center py-4 shadow">
     {{- partial "footer" . -}}
   </footer>
 
   {{- partial "script" . -}}
-  {{- block "addscript" . }}{{- end }}
 </body>
 
 </html>

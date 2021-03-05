@@ -35,3 +35,42 @@ p {
 	margin-left: 0.5rem;
 	margin-bottom: 1.6rem;
 }
+
+/* Layout */
+@media (min-width: 1200px) {
+	body {
+		display: grid;
+		column-gap: 2.5rem;
+		row-gap: 3rem;
+		grid-template-columns: 1fr 3.5fr 1fr;
+		grid-template-rows: auto;
+	}
+
+	.bd-header {
+		position: fixed;
+		top: 0;
+		/* rtl:begin:ignore */
+		right: 0;
+		left: 0;
+		/* rtl:end:ignore */
+		z-index: 1030;
+		grid-column: 1 / span 3;
+	}
+
+	.bd-footer {
+		bottom: 0;
+		/* rtl:begin:ignore */
+		right: 0;
+		left: 0;
+		/* rtl:end:ignore */
+		z-index: 1030;
+		grid-column: 1 / span 3;
+	}
+
+	.bd-aside,
+	.bd-main {
+		margin-top: 6rem;
+	}
+
+
+}
