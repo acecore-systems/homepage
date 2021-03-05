@@ -67,10 +67,12 @@ p {
 		grid-column: 1 / span 3;
 	}
 
-	.bd-aside,
 	.bd-main {
 		margin-top: 6rem;
 	}
 
+	.bd-aside {
+		padding-top: 6rem;
+	}
 
 }
