@@ -3,27 +3,40 @@
 
 <head>
   {{- partial "head" . -}}
-  {{- partial "style" . -}}
-  {{- block "addstyle" . }}{{- end }}
 </head>
 
 <body>
 
-  <header>
-    {{- partial "nav" . -}}
-  </header>
+  <div class="conteiner-fluid shadow">
+    <header>
+      {{- partial "header" . -}}
+    </header>
+  </div>
 
-  <main>
-    {{- block "main" . }}
+  <div class="container-fluid">
+    <div class="row m-5">
 
-    {{ .Content }}
+      <div class="col-2">
+        <aside>
+          {{- partial "sidebar" . -}}
+        </aside>
+      </div>
 
-    {{- end }}
+      <div class="col-8 mx-4">
+        <main class="container bg-white px-5 pt-1 pb-5 shadow">
+          {{- block "main" . }}
+            {{ .Content }}
+          {{- end }}
+        </main>
+      </div>
 
-    <footer class="container">
-      {{- partial "footer" . -}}
-    </footer>
-  </main>
+
+    </div>
+  </div>
+
+  <footer class="container-fluid">
+    {{- partial "footer" . -}}
+  </footer>
 
   {{- partial "script" . -}}
   {{- block "addscript" . }}{{- end }}
