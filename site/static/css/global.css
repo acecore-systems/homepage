@@ -9,13 +9,13 @@ body {
 	font-family: "Black Ops One", cursive;
 }
 
-h1 {
+main h1 {
 	font-weight: bold;
 	font-size: 1.8rem;
 	margin: 3rem 0 3rem;
 }
 
-h2 {
+main h2 {
 	font-weight: bold;
 	font-size: 1.3rem;
 	margin: 3rem 0 3rem;
@@ -25,13 +25,13 @@ h2 {
 	border-bottom: 3px solid #ddd;
 }
 
-h3 {
+main h3 {
 	font-weight: bold;
 	font-size: 1.2rem;
 	margin: 2.2rem 0.5rem 1.8rem;
 }
 
-p {
+main p {
 	margin-left: 0.5rem;
 	margin-bottom: 1.6rem;
 }
