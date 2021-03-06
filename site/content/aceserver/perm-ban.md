@@ -1,12 +1,16 @@
 ---
-title: サバイバルBAN権限付与者リスト
+title: BAN権限付与者リスト
 description: |-
-  サーバー内での基本的なルールについて解説します。
+  BAN権限付与者リスト
 menu: その他
 pageindex: 0
 ---
 
 # BAN権限付与者リスト
+
+荒らし発生時に緊急でBANを行う権限を持っているユーザー一覧
+
+## サバイバル
 
 - yuki_0909
 - 6nuts
@@ -31,3 +35,7 @@ pageindex: 0
 - tellurium04
 - watersidelilin
 - yizu_trpf
+
+## クリエイティブ
+
+- game_tokumei
