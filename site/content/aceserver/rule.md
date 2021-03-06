@@ -1,8 +1,8 @@
 ---
 title: ルール
 description: |-
-  ルール
-pageindex: 1
+  サーバー内での基本的なルールについて解説します。
+pageindex: 2
 ---
 
 # ルール

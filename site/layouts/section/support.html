@@ -5,7 +5,7 @@
 {{ range .Pages.ByParam "pageindex"}}
 <h2>{{ .Title }}</h2>
 <p>{{ .Description }}</p>
-<a class="btn btn-primary rounded-pill px-5" href="{{ .Permalink }}" role="button">支援ページへ</a>
+<a class="btn btn-primary rounded-pill px-5" href="{{ .Permalink }}" role="button">{{ .Title }}フォームへ</a>
 {{ end }}
 
 {{ end }}

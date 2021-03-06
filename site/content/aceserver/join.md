@@ -1,8 +1,8 @@
 ---
 title: 参加方法
 description: |-
-  参加方法
-pageindex: 2
+  参加方法について解説します。
+pageindex: 3
 ---
 
 # 参加方法

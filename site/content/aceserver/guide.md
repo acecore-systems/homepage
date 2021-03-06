@@ -1,8 +1,8 @@
 ---
 title: ワールド案内
 description: |-
-  エースサーバーホーム
-pageindex: 3
+  エースサーバーにある各ワールドの紹介をします。
+pageindex: 4
 ---
 # ワールド案内
 
