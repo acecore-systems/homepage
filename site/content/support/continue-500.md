@@ -1,7 +1,7 @@
 ---
 title: 継続支援 500
 description: |-
-  継続支援ページ
+  月額500円の継続支援をします。
 pageindex: 2
 ---
 
