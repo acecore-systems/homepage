@@ -46,6 +46,10 @@ main p {
 		grid-template-rows: auto;
 	}
 
+	main {
+		min-height: calc(100vh - 13.5rem);
+	}
+
 	.bd-header {
 		position: fixed;
 		top: 0;

@@ -27,8 +27,9 @@
               エースサーバー
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="/aceserver">ホーム</a></li>
-              <li><a class="dropdown-item" href="#">ワールド案内</a></li>
+              {{ range where ( .Site.Pages.ByParam "pageindex" ) "Section" "aceserver"}}
+              <li><a class="dropdown-item" href="{{ .Permalink }}">{{ .Title }}</a></li>
+              {{ end }}
             </ul>
           </li>
           <li class="nav-item">

@@ -1,6 +1,12 @@
 <nav class="nav flex-column">
-  <a class="nav-link" href="#">マインクラフトサーバー</a>
-  <a class="nav-link" href="#">ホームページ作成</a>
-  <a class="nav-link" href="#">関連サイト</a>
-  <a class="nav-link" href="#">コミュニティ</a>
+  <ul class="list-unstyled">
+    <li class="my-2">
+      <button class="btn d-inline-flex align-items-center collapsed" data-bs-toggle="collapse" data-bs-target="#menu-collapse" aria-controls="menu-collapse">メニュー</button>
+      <ul class="list-unstyled ps-3 collapse" id="menu-collapse">
+        {{ range where ( .Site.Pages.ByParam "pageindex" ) "Section" .Section}}
+        <li><a class="dropdown-item" href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </li>
+  </ul>
 </nav>
