@@ -21,7 +21,7 @@ main h2 {
 	margin: 3rem 0 3rem;
 	padding: 0.7rem 0.6rem;
 	background: #f4f4f4;
-	border-left: 5px solid #517d99;
+	border-left: 5px solid #000085;
 	border-bottom: 3px solid #ddd;
 }
 
@@ -74,5 +74,4 @@ main p {
 	.bd-aside {
 		padding-top: 6rem;
 	}
-
 }
