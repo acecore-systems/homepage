@@ -2,6 +2,7 @@
 title: ルール
 description: |-
   サーバー内での基本的なルールについて解説します。
+menu: メニュー
 pageindex: 2
 ---
 

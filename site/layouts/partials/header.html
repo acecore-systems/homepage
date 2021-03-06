@@ -28,7 +28,9 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {{ range where ( .Site.Pages.ByParam "pageindex" ) "Section" "aceserver"}}
+              {{ if eq .Params.menu "メニュー"}}
               <li><a class="dropdown-item" href="{{ .Permalink }}">{{ .Title }}</a></li>
+              {{ end }}
               {{ end }}
             </ul>
           </li>

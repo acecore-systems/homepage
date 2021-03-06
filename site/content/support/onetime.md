@@ -2,6 +2,7 @@
 title: 一度の支援
 description: |-
   金額を指定して一度だけ支援金を送ります。
+menu: メニュー
 pageindex: 1
 ---
 

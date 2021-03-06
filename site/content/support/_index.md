@@ -2,6 +2,7 @@
 title: 支援
 description: |-
   支援ページ
+menu: メニュー
 pageindex: 0
 ---
 # 支援ページ

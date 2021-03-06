@@ -3,9 +3,11 @@
 {{ .Content }}
 
 {{ range .Pages.ByParam "pageindex"}}
+{{ if eq .Params.menu "メニュー"}}
 <h2>{{ .Title }}</h2>
 <p>{{ .Description }}</p>
 <a class="btn btn-primary rounded-pill px-5" href="{{ .Permalink }}" role="button">{{ .Title }}ページへ</a>
+{{ end }}
 {{ end }}
 
 {{ end }}

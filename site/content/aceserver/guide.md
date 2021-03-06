@@ -2,6 +2,7 @@
 title: ワールド案内
 description: |-
   エースサーバーにある各ワールドの紹介をします。
+menu: メニュー
 pageindex: 4
 ---
 # ワールド案内

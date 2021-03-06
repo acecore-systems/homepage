@@ -2,6 +2,7 @@
 title: トップページ
 description: |-
   なんかすごい事業者になっていきます！
+menu: メニュー
 pageindex: 0
 ---
 

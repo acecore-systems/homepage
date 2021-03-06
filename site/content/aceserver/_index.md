@@ -2,6 +2,7 @@
 title: トップ
 description: |-
   エースサーバーホーム
+menu: メニュー
 pageindex: 0
 ---
 # ご挨拶

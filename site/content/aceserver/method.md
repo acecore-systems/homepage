@@ -2,6 +2,7 @@
 title: 遊び方
 description: |-
   エースサーバーでの遊び方について解説します。
+menu: メニュー
 pageindex: 1
 ---
 # 遊び方

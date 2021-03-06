@@ -2,6 +2,7 @@
 title: 参加方法
 description: |-
   参加方法について解説します。
+menu: メニュー
 pageindex: 3
 ---
 
