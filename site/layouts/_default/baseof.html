@@ -11,17 +11,17 @@
     {{- partial "header" . -}}
   </header>
 
-  <aside class="bd-aside sticky-xl-top align-self-start mb-3 ms-xl-5">
-    <div class="shadow">
-    {{- partial "sidemenu" . -}}
-    </div>
-  </aside>
-
-  <main class="bd-main bg-white px-3 px-xl-5 pb-5 shadow">
+  <main class="bd-main bg-white px-3 px-xl-5 pt-1 pb-5 shadow">
     {{- block "main" . }}
     {{ .Content }}
     {{- end }}
   </main>
+
+  <aside class="bd-aside sticky-xl-top align-self-start ms-xl-5">
+    <div class="shadow">
+      {{- partial "sidemenu" . -}}
+    </div>
+  </aside>
 
   <footer class="bd-footer bg-dark text-muted text-center py-4 shadow">
     {{- partial "footer" . -}}

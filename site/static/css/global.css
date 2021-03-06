@@ -69,9 +69,11 @@ main p {
 
 	.bd-main {
 		margin-top: 6rem;
+		grid-area: 1 / 2;
 	}
 
 	.bd-aside {
 		padding-top: 6rem;
+		grid-area: 1 / 1;
 	}
 }
