@@ -73,5 +73,5 @@ pageindex: 2
 
 サーバー名：エースサーバー  
 アドレス：mc.acecore.systems  
-参加方法：http://acs-hp.netlify.app/aceserver  
+参加方法：http://acecore.systems/acesv
 Discord：https://discord.gg/dkrn6NtU5E
