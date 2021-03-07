@@ -1,6 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-thumbnail: 
+description: |-
+  エースサーバーホーム
+menu: メニュー
+pageindex: 0
 ---
-
