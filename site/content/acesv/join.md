@@ -17,13 +17,13 @@ pageindex: 3
 
 ## マインクラフト BedRockEdition
 
-上記内容とルールページを読んで理解したうえで、
+上記内容とルールページを読んで理解したうえで、  
 以下のサーバーアドレスとポート番号を指定して、参加してください
 
-サーバーアドレス：mc.acecore.systems
+サーバーアドレス：mc.acecore.systems  
 ポート番号：19133
 
-Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください
+Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください  
 https://novablog.work/be-join-any-server/
 
 ## ディスコード連携方法
