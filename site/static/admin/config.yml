@@ -1,0 +1,66 @@
+backend:
+  name: git-gateway
+  branch: master
+
+# アップロードされた画像ファイルのパス
+media_folder: "site/static/img"
+# アップロードされた画像ファイルの場所
+public_folder: "/img"
+# ワークフローの追加
+publish_mode: editorial_workflow
+# 公開サイトのURL
+site_url: https://acecore.systems
+# サイト編集画面に表示されるリンク
+display_url: https://acecore.systems
+# 言語設定
+locale: "ja"
+
+collections:
+  - label: "エースサーバー" # 管理画面のサイドバーで使う
+    name: "acesv" # 管理画面のパスで使う　例：/admin/collections/blog
+    preview_path: "blog/{{slug}}"
+    folder: "site/content/blog" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    filter: { field: "type", value: "blog" }
+    create: true # 新しいページを作ることを許可する
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
+    fields: # ページ作成画面で使う。Front Matterの値を書く
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "記事の説明", name: "description", widget: "text" }
+      - {
+          label: "メニュー",
+          name: "menu",
+          widget: "string",
+          default: "メニュー",
+        }
+      - {
+          label: "ページインデックス",
+          name: "pageindex",
+          widget: "number",
+          required: false,
+        }
+      - { label: "本文", name: "body", widget: "markdown" }
+
+  - label: "インデックスページ"
+    name: "indexpage"
+    files:
+      - file: "site/content/_index.md"
+        label: "ホームページ"
+        name: "home"
+        fields:
+          - { label: "タイトル", name: "title", widget: "string" }
+          - { label: "このページの説明", name: "description", widget: "text" }
+          - { label: "本文", name: "body", widget: "markdown" }
+      - file: "site/content/acesv/_index.md"
+        label: "エースサーバー"
+        name: "acesv"
+        fields:
+          - { label: "タイトル", name: "title", widget: "string" }
+          - { label: "このページの説明", name: "description", widget: "text" }
+          - { label: "本文", name: "body", widget: "markdown" }
+      - file: "site/content/support/_index.md"
+        label: "サポート"
+        name: "support"
+        fields:
+          - { label: "タイトル", name: "title", widget: "string" }
+          - { label: "このページの説明", name: "description", widget: "text" }
+          - { label: "本文", name: "body", widget: "markdown" }
