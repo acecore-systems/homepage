@@ -28,13 +28,13 @@ collections:
           label: "メニュー",
           name: "menu",
           widget: "string",
-          default: "メニュー",
+          default: "メニュー"
         }
       - {
           label: "ページインデックス",
           name: "pageindex",
           widget: "number",
-          required: false,
+          required: false
         }
       - { label: "本文", name: "body", widget: "markdown" }
 
