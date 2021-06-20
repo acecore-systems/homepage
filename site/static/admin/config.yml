@@ -18,11 +18,9 @@ locale: "ja"
 collections:
   - label: "エースサーバー" # 管理画面のサイドバーで使う
     name: "acesv" # 管理画面のパスで使う　例：/admin/collections/blog
-    preview_path: "blog/{{slug}}"
-    folder: "site/content/blog" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
-    filter: { field: "type", value: "blog" }
-    create: true # 新しいページを作ることを許可する
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
+    preview_path: "acesv/{{slug}}"
+    folder: "site/content/acesv" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    create: false # 新しいページを作ることを許可する
     fields: # ページ作成画面で使う。Front Matterの値を書く
       - { label: "タイトル", name: "title", widget: "string" }
       - { label: "記事の説明", name: "description", widget: "text" }
