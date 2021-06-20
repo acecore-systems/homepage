@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 
 # アップロードされた画像ファイルのパス
 media_folder: "site/static/img"
