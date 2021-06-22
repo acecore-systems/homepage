@@ -24,7 +24,7 @@ pageindex: 3
 Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください\
 https://novablog.work/be-join-any-server/
 
-## 対応機種一覧
+## 対応機種
 
 <!--StartFragment-->
 
