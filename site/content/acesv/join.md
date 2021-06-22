@@ -24,6 +24,10 @@ pageindex: 3
 Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください\
 https://novablog.work/be-join-any-server/
 
+
+
+## 対応機種一覧
+
 <!--StartFragment-->
 
 ![](https://cdn.discordapp.com/attachments/773390374789447710/856123242761945118/unknown.png)
