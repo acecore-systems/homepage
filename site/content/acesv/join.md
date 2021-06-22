@@ -34,7 +34,7 @@ PC版：https://discord.com
 
 Android版：https://play.google.com/store/apps/details?id=com.discord&hl=ja&gl=US
 
-iOS版：https://apps.apple.com/jp/app/discord-%E8%A9%B1%E3%81%9D%E3%81%86-%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%97%E3%82%88%E3%81%86-%E9%9B%86%E3%81%BE%E3%82%8D%E3%81%86/id985746746
+iOS版：https://apps.apple.com/jp/app/discord
 
 からアプリをダウンロード、そしてアカウント登録をしてください
 
