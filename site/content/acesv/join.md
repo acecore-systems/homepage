@@ -28,7 +28,7 @@ https://novablog.work/be-join-any-server/
 
 <!--StartFragment-->
 
-![](/img/対応機種.png)
+![](https://cdn.discordapp.com/attachments/773390374789447710/856123242761945118/unknown.png)
 
 <!--EndFragment-->
 
