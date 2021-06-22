@@ -30,7 +30,7 @@ https://novablog.work/be-join-any-server/
 https://discord.gg/dkrn6NtU5E
 
 ﻿﻿※ディスコードのアカウントがない方は\
-PC版：https://discord.com/
+PC版：https://discord.com
 
 Android版：https://play.google.com/store/apps/details?id=com.discord&hl=ja&gl=US
 
