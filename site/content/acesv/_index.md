@@ -68,7 +68,7 @@ MCID : MKOTA_SAN(Java) / KucyaBotTalk(BE)
 
 Twitter : @kotakotamm
 
-趣味:野球、音楽、ポケモン
+趣味 : 野球、音楽、ポケモン
 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
