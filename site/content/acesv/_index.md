@@ -48,7 +48,7 @@ Twitter : @borubin
 ![](/img/スクリーンショット-2021-06-26-101349.png)
 
 
-MCID : sousuke3018
+MCID : sousuke3018 (Java)
 
 
 担当 : RS回路
