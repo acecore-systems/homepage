@@ -43,6 +43,6 @@ MCID : sousuke3018(Java)\
 ![](/img/image0.jpg)
 
 MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
-担当 : Discord対応\
+担当 : Discord・SNS対応、イベント開催\
 趣味 : 野球、音楽、ポケモン\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
