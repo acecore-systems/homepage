@@ -29,7 +29,7 @@ Twitter : @gui__AS
 
 ![](/img/2021-06-25_20.10.53.png)
 
-MCID : My_name_is_Hatt（Java）
+MCID : My_name_is_Hatt(Java)
 
 
 担当 : 整地、トラブル全般
@@ -48,7 +48,7 @@ Twitter : @borubin
 ![](/img/スクリーンショット-2021-06-26-101349.png)
 
 
-MCID : sousuke3018 (Java)
+MCID : sousuke3018(Java)
 
 
 担当 : RS回路
