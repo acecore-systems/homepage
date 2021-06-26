@@ -15,9 +15,8 @@ pageindex: 0
 
 ![](/img/image0.png)
 
-MCID : gui___(Java)/ UnbrokenSmile94(BE)\
+MCID : gui___(Java)/UnbrokenSmile94(BE)\
 担当 : 鯖主、システム関係\
-Twitter : @gui__AS\
 趣味 : う～ん、庭の根っこ堀りですかね\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
@@ -27,7 +26,6 @@ Twitter : @gui__AS\
 
 MCID : My_name_is_Hatt(Java)\
 担当 : 整地、トラブル全般\
-Twitter : @borubin\
 趣味 : 絵\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
@@ -44,8 +42,7 @@ MCID : sousuke3018(Java)\
 
 ![](/img/image0.jpg)
 
-MCID : MKOTA_SAN(Java) / KucyaBotTalk(BE)\
+MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
 担当 : Discord対応\
-Twitter : @kotakotamm\
 趣味 : 野球、音楽、ポケモン\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
