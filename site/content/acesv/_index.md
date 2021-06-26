@@ -15,7 +15,7 @@ pageindex: 0
 
 ![](/img/image0.png)
 
-MCID : gui**_**(Java)/ UnbrokenSmile94(BE)\
+MCID : gui___(Java)/ UnbrokenSmile94(BE)\
 担当 : 鯖主、システム関係\
 Twitter : @gui__AS\
 趣味 : う～ん、庭の根っこ堀りですかね\
