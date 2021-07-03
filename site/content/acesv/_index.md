@@ -53,5 +53,5 @@ MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
 
 MCID : teartan\
 担当 : 案内窓口・Instagram\
-趣味 : どうぶつの森\
+趣味 : あつまれどうぶつの森\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
