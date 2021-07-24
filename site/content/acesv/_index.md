@@ -13,7 +13,7 @@ pageindex: 0
 
 **グイ**
 
-![](/img/image0.png)
+![](/img/gui.png)
 
 MCID : gui___(Java)/UnbrokenSmile94(BE)\
 担当 : 鯖主、システム関係\
@@ -22,7 +22,7 @@ MCID : gui___(Java)/UnbrokenSmile94(BE)\
 
 **はっ**
 
-![](/img/2021-06-25_20.10.53.png)
+![](/img/hatt.png)
 
 MCID : My_name_is_Hatt(Java)\
 担当 : 整地、トラブル全般\
@@ -31,27 +31,37 @@ MCID : My_name_is_Hatt(Java)\
 
 **sou**
 
-![](/img/スクリーンショット-2021-06-26-101349.png)
+![](/img/sousuke.png)
 
 MCID : sousuke3018(Java)\
-担当 : RS回路\
+担当 : RS回路、プログラミング、リソパ制作\
 趣味 : 暇つぶし, DBD, その他諸々\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 **コタ**
 
-![](/img/image0.jpg)
+![](/img/mkota_san.png)
 
 MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
-担当 : Discord・Twitter対応、イベント開催\
-趣味 : 野球、音楽、ポケモン\
+担当 : Discord・Twitter、イベント開催\
+趣味 : 野球観戦、音楽鑑賞、ポケモン\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 **てぃあ**
 
-![](/img/tear_3.png)
+![](/img/tear.png)
 
-MCID : teartan\
-担当 : 案内窓口・Instagram\
+MCID : teartan(Java)\
+担当 : 案内・Instagram\
 趣味 : あつまれどうぶつの森\
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+## サーバーオリジナルBot
+
+**クチャ**
+
+![](/img/image0-7-.png)
+
+このサーバー専用に開発された多機能型テキスト読み上げディスコードBotです!\
+テキストの読み上げのほかに検索機能やサーバー内施設の座標を教えてくれたり他にもディスコード内で色々できます!\
+（製作者 : 運営コタ・運営sou）
