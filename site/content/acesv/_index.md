@@ -44,17 +44,7 @@ MCID : sousuke3018(Java)\
 
 MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
 担当 : Discord・Twitter、イベント開催\
-趣味 : 野球観戦、音楽鑑賞、ポケモン\
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-**てぃあ**
-
-![](/img/tear.png)
-
-MCID : teartan(Java)\
-担当 : 案内・Instagram\
-趣味 : あつまれどうぶつの森\
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+趣味 : 野球観戦、音楽鑑賞、ポケモン
 
 ## サーバーオリジナルBot
 
