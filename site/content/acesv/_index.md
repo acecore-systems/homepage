@@ -46,8 +46,6 @@ MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
 担当 : Discord・Twitter、イベント開催\
 趣味 : 野球観戦、音楽鑑賞、ポケモン
 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
 ## サーバーオリジナルBot
 
 **クチャ**
