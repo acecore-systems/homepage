@@ -70,7 +70,7 @@ pageindex: 1
 　上記設定の開けられるメンバー等を追加する事ができます。
 
 　　例）/cmodify @\[Player]　　　プレイヤーを追加します。\
-              /cmodify –\[Player]　　　  プレイヤーを削除します。
+               /cmodify –\[Player]　　　  プレイヤーを削除します。
 
 /cpublic
 　自分のかけた保護を解除します。
