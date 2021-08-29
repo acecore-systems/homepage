@@ -45,13 +45,3 @@ MCID : sousuke3018(Java)\
 MCID : MKOTA_SAN(Java) /KucyaBotTalk(BE)\
 担当 : Discord・Twitter、イベント開催\
 趣味 : 野球観戦、音楽鑑賞、ポケモン
-
-## サーバーオリジナルBot
-
-**クチャ**
-
-![](/img/image0-7-.png)
-
-このサーバー専用に開発された多機能型テキスト読み上げディスコードBotです!\
-テキストの読み上げの他にもディスコード内で色々できます!\
-（製作者 : 運営コタ・運営sou / イラスト : Nightmare_SOUND）
