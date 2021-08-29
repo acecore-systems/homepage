@@ -85,13 +85,26 @@ pageindex: 1
 
 **BOT**\
 ・Rythm・・・VC内で音楽を聴くことができます。\
-公式HP : https://rythm.fm/ \
+HP : https://rythm.fm/ \
 またこちらのサイトに使い方が詳しくまとめてあります : https://weiver.org/how-to-use-rythm-bot/\
 \
 ・shovel (Blue・Red・Green)・・・テキストチャンネルに書き込まれた文章をVCで読み上げてくれます。\
-公式説明書：https://cod-sushi.com/shovel-how-to-use/
+HP：https://cod-sushi.com/shovel-how-to-use/
 
 ・喋太郎・・・上と同じ。\
 HP : https://www.dayaman.work/syabetaro/info
 
-・クチャ（鯖オリジナル）
+・mee6・・・検索機能やランキング機能があります。\
+HP：https://mee6.xyz/
+
+・クチャ・・・\
+このサーバー専用に開発された多機能型テキスト読み上げディスコードBotです。\
+テキストの読み上げの他にもディスコード内で色々できます。\
+（製作者 : 運営コタ・運営sou / イラスト : Nightmare_SOUND）
+
+・エース君・・・\
+このサーバー専用に開発された新規さんへの参加方法を案内してくれるBOTです。\
+それ以外にも時報をお知らせしたりディスコード内で色々できます。\
+（製作者：運営コタ）
+
+そのほかにもございますが省かせていただきます。
