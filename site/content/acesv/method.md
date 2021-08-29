@@ -90,3 +90,8 @@ pageindex: 1
 \
 ・shovel (Blue・Red・Green)・・・テキストチャンネルに書き込まれた文章をVCで読み上げてくれます。\
 公式説明書：https://cod-sushi.com/shovel-how-to-use/
+
+・喋太郎・・・上と同じ。\
+HP : https://www.dayaman.work/syabetaro/info
+
+・クチャ（鯖オリジナル）
