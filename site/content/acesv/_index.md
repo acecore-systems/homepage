@@ -44,11 +44,3 @@ MCID : My_name_is_Hatt(Java)\
 MCID : sousuke3018(Java)\
 担当 : RS回路、プログラミング、リソパ制作\
 趣味 : 暇つぶし, DBD, その他諸々
-
-![]()
-
-## 支援
-
-エースサーバーの運営、ご支援いただけますと幸いです。
-
-{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="/support">支援ページへ</a>{{< /rawhtml >}}
