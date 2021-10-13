@@ -61,4 +61,4 @@ MCID : My_name_is_Hatt(Java)\
 
 MCID : teartan(Java)\
 担当 : 色々\
-趣味 : 今はAIPXが楽しい（ヘタ）
+趣味 : 今はAPEXが楽しい（ヘタ）
