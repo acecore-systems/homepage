@@ -5,6 +5,11 @@ body {
 	letter-spacing: 0.04rem;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 .font-boo {
 	font-family: "Black Ops One", cursive;
 }
