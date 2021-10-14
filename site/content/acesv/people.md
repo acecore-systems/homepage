@@ -15,6 +15,8 @@ pageindex: 7
 MCID : gui___(Java)/UnbrokenSmile94(BE)\
 担当 : 鯖主、システム関係\
 趣味 : 将棋したい
+
+
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 **はっ**
