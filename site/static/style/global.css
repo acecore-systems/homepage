@@ -5,6 +5,10 @@ body {
 	letter-spacing: 0.04rem;
 }
 
+a{
+	word-break: break-all;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
