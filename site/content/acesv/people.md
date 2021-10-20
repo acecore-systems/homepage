@@ -26,7 +26,6 @@ MCID : My_name_is_Hatt(Java)\
 担当 : 整地、トラブル全般\
 趣味 : 絵
 
-
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 **てぃあ**
@@ -36,8 +35,6 @@ MCID : My_name_is_Hatt(Java)\
 MCID : teartan(Java)\
 担当 : 色々\
 趣味 : 今はAPEXが楽しい（ヘタ）
-
-
 
 ## サポーター
 
