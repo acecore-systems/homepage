@@ -28,13 +28,9 @@ MCID : My_name_is_Hatt(Java)\
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
-**てぃあ**
 
-![](/img/tear.png)
 
-MCID : teartan(Java)\
-担当 : 色々\
-趣味 : 今はAPEXが楽しい（ヘタ）
+
 
 ## サポーター
 
