@@ -18,8 +18,8 @@ pageindex: 3
 上記内容とルールページを読んで理解したうえで、\
 以下のサーバーアドレスとポート番号を指定して、参加してください
 
-サーバーアドレス：**mc.acecore.systems**\
-ポート番号：**19133**
+サーバーアドレス：**be.acecore.systems**\
+ポート番号：**5995**
 
 Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください\
 https://novablog.work/be-join-any-server/
