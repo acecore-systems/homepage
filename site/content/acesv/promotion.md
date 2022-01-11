@@ -79,7 +79,7 @@ https://www.youtube.com/channel/UCRd3wlD5zemJ7Q9C1SZoEDw
 
 Agamesでは、ゲーム専用サーバーやVPS(仮想専用サーバー)などのホスティングを提供しております。
 
-https://agames.jp/aff.php?aff=53
+https://agames.jp/w/aff.php?aff=53
 
 ## Game8
 
