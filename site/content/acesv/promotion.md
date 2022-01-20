@@ -6,8 +6,13 @@ pageindex: 6
 ---
 # プロモーション
 
-各方面で露見させていただいているサイトを紹介します
+<!--StartFragment-->
 
+![コグホイール, 装備, 車輪, 機械, 歯車, 機構, テクノロジー, 業界, エンジニアリング, シンボル](https://cdn.pixabay.com/photo/2017/03/07/20/45/cog-wheels-2125169_960_720.jpg)
+
+<!--EndFragment-->
+
+各方面で露見させていただいているサイトを紹介します
 
 ## DISBOARD （ディスボード）
 
@@ -16,14 +21,12 @@ PUBGやLoLなどのゲームや、アニメ、雑談などなど、あなたが�
 
 https://disboard.org/ja/server/737538781024092170
 
-
 ## ものくらふと！
 
 マルチプレイの新しいサーバーの選び方！\
 新しいMinecraftサーバーリスト
 
 https://monocraft.net/servers/SIa6esbbmANs2GVbUecW
-
 
 ## ディスコード速報
 
@@ -32,14 +35,12 @@ Discordに関することはディス速にお任せください。ぴったり�
 
 https://dissoku.net/server/737538781024092170
 
-
 ## Discoparty （ディスコパーティー）
 
 Discordの募集掲示板です。
 ディスコードのサーバーを探したり募集するのにご利用ください
 
 https://discoparty.jp/s/Bm7j2lAhMB
-
 
 ## Japan Minecraft Servers （JMS）
 
@@ -53,7 +54,6 @@ https://minecraft.jp/servers/mc.acecore.systems
 補足したい部分があれば編集してみて下さい。
 
 https://w.atwiki.jp/minecraftclassic/pages/18.html
-
 
 ## ジモティー （メンバー募集）
 
@@ -69,40 +69,33 @@ Twitchはゲーマーと趣味のための世界トップレベルの配信プ�
 
 https://www.twitch.tv/aceserver
 
-
 ## YouTube （ユーチューブ）
 
 YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。
 
 https://www.youtube.com/channel/UCRd3wlD5zemJ7Q9C1SZoEDw
 
-
 ## AGAMES （エーゲームズ）
 
 Agamesでは、ゲーム専用サーバーやVPS(仮想専用サーバー)などのホスティングを提供しております。
 
-https://agames.jp/aff.php?aff=53
-
+https://agames.jp/w/aff.php?aff=53
 
 ## Game8
 
 https://game8.jp/minecraft/216448
 
-
 ## フレンドBBS
 
 https://twitter.friend-bbs.com/
-
 
 # FRESTU Discordフレンド募集
 
 https://frestu.com/boards/discord_friends/posts
 
-
 ## Twitter フォロワー募集掲示板
 
 https://bbs.whotwi.com/
-
 
 ## Lobbi
 

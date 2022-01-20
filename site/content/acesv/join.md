@@ -6,6 +6,12 @@ pageindex: 3
 ---
 # 参加方法
 
+<!--StartFragment-->
+
+![人, グループ, たくさんの, 子供, 教育, 男の子, アフリカ, ケニア, 子供時代, 学ぶ, ハッピー](https://cdn.pixabay.com/photo/2018/02/07/18/30/people-3137672_960_720.jpg)
+
+<!--EndFragment-->
+
 ## マインクラフト JavaEdition
 
 上記内容とルールページを読んで理解したうえで、\
@@ -18,8 +24,8 @@ pageindex: 3
 上記内容とルールページを読んで理解したうえで、\
 以下のサーバーアドレスとポート番号を指定して、参加してください
 
-サーバーアドレス：**mc.acecore.systems**\
-ポート番号：**19133**
+サーバーアドレス：**be.acecore.systems**\
+ポート番号：**5995**
 
 Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください\
 https://novablog.work/be-join-any-server/
