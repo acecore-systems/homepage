@@ -1,0 +1,10 @@
+iframe {
+  width: 100%;
+  height:calc(100vh - 64px)
+}
+
+@media (min-width: 1200px) {
+  iframe {
+		height:calc(100vh - 120px)
+  }
+}
