@@ -31,6 +31,8 @@ pageindex: 4
 当サーバーのメイン鯖です。\
 ロビーのゲートから行くことができます。
 
+{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://main.mc.acecore.systems:5528/">ワールドマップへ</a>{{< /rawhtml >}}
+
 ### 市役所　X-235 Y64 Z123
 
 参加者が作った村や、エンド・メサなどの離れたバイオーム、クリエイティブワールド（1.17対応済み）に移動できるポータルがあります。
