@@ -94,7 +94,7 @@ pageindex: 4
 現在ではメイン鯖にプラグインを入れる前の実験をしたりするのに使用されています。\
 ロビーから誰でも入ることができますが、メイン鯖ではないので、問題が発生しても対応はしません。
 
-{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://azkaban.mc.asecore.systems:5633/">ワールドマップへ</a>{{< /rawhtml >}}
+{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://azkaban.mc.acecore.systems:5633/">ワールドマップへ</a>{{< /rawhtml >}}
 
 ## 4.クリエイティブ
 
