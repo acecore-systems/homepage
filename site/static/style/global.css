@@ -89,4 +89,9 @@ main p {
 		padding-top: 6rem;
 		grid-area: 1 / 1;
 	}
+
+	.bd-right-aside {
+		padding-top: 6rem;
+		grid-area: 1 / 3;
+	}
 }
