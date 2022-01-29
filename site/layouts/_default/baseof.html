@@ -12,6 +12,19 @@
   </header>
 
   <main class="bd-main bg-white px-3 px-xl-5 pt-1 pb-5 shadow">
+
+    <div class="gcse-searchresults"></div>
+    <style>
+      .gsc-control-cse {
+        margin-top: 1.5rem;
+        height: auto;
+      }
+      .gsc-control-wrapper-cse {
+        height: auto;
+      }
+    </style>
+    
+
     {{- block "main" . }}
     {{ .Content }}
     {{- end }}
