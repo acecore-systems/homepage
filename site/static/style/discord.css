@@ -1,10 +1,10 @@
-iframe {
+iframe .discord {
 	width: 100%;
 	height: 500px;
 }
 
 @media (min-width: 1200px) {
-	iframe {
+	iframe .discord {
 		height: calc(100vh - 140px);
 	}
 }
