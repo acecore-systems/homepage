@@ -8,7 +8,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav w-100">
           <li class="nav-item">
             <a class='nav-link {{ if .IsHome }} active {{ end }}' aria-current="page" href="/">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-fill mb-1" viewBox="0 0 16 16">
@@ -42,6 +42,33 @@
               </svg>
               支援
             </a>
+          </li>
+          {{/*  Google検索  */}}
+          <li class="nav-item ms-lg-auto">
+            <script async src="https://cse.google.com/cse.js?cx=0b346bc6b2568efc2"></script>
+            <div class="gcse-search"></div>
+            <style>
+              .gsc-control-cse {
+                padding: 0;
+                background-color: transparent;
+                border: 0;
+                height: 40px;
+              }
+
+              @media (min-width: 992px) {
+                .nav-item.ms-lg-auto {
+                  width: 40%;
+                }
+              }
+          
+              .gsc-control-wrapper-cse {
+                height: 40px;
+              }
+          
+              .gsc-search-box {
+                height: 40px;
+              }
+            </style>
           </li>
         </ul>
       </div>
