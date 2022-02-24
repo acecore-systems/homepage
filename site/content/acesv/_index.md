@@ -8,7 +8,7 @@ pageindex: 0
 
 <!--StartFragment-->
 
-![男, ジャンピング, 山, 岩層, ジャンプ, うれしそうな, ハッピー, アスレチック, 屋外, 楽しい](https://cdn.pixabay.com/photo/2015/04/20/17/39/man-731900_960_720.jpg)
+![アイコン](/img/icon.png)
 
 <!--EndFragment-->
 
