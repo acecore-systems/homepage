@@ -8,7 +8,7 @@ pageindex: 0
 
 <!--StartFragment-->
 
-![アイコン](/img/icon.png)
+![アイコン](/img/icon2.png)
 
 <!--EndFragment-->
 
