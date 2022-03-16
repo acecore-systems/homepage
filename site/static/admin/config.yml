@@ -16,6 +16,22 @@ display_url: https://acecore.systems
 locale: "ja"
 
 collections:
+  - label: "ブログ" # 管理画面のサイドバーで使う
+    name: "blog" # 管理画面のパスで使う　例：/admin/collections/blog
+    preview_path: "blog/{{slug}}"
+    folder: "site/content/blog" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    create: true # 新しいページを作ることを許可する
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
+    fields: # ページ作成画面で使う。Front Matterの値を書く
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "記事の説明", name: "description", widget: "text" }
+      - { label: "公開日", name: "publishDate", widget: "datetime"}
+      - { label: "サムネイル画像", name: "thumbnail", widget: "image" }
+      - { label: "サムネイル画像の説明", name: "thumbnailAlt", widget: "string"}
+      - { label: "カテゴリー", name: "categories", widget: "list", required: false}
+      - { label: "タグ", name: "tags", widget: "list", required: false}
+      - { label: "本文", name: "body", widget: "markdown" }
+
   - label: "エースサーバー" # 管理画面のサイドバーで使う
     name: "acesv" # 管理画面のパスで使う　例：/admin/collections/blog
     preview_path: "acesv/{{slug}}"

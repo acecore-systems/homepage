@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ range (where .Pages "Section" "blog")}}
+
+<h3>{{ .Title }}</h3>
+{{ .Description }}
+<p>{{ .Date.Format "2006年1月2日" }}</p>
+<a href="{{ .Permalink }}">記事を読む →</a>
+
+{{ end }}
+
+{{ end }}
