@@ -20,6 +20,7 @@ collections:
     name: "blog" # 管理画面のパスで使う　例：/admin/collections/blog
     preview_path: "blog/{{slug}}"
     folder: "site/content/blog" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    filter: { field: "type", value: "blog" }
     create: true # 新しいページを作ることを許可する
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
     fields: # ページ作成画面で使う。Front Matterの値を書く
@@ -31,6 +32,7 @@ collections:
       - { label: "カテゴリー", name: "categories", widget: "list", required: false}
       - { label: "タグ", name: "tags", widget: "list", required: false}
       - { label: "本文", name: "body", widget: "markdown" }
+      - { label: "タイプ", name: "type", widget: "hidden", default: "blog" }
 
   - label: "エースサーバー" # 管理画面のサイドバーで使う
     name: "acesv" # 管理画面のパスで使う　例：/admin/collections/blog
@@ -67,6 +69,13 @@ collections:
       - file: "site/content/acesv/_index.md"
         label: "エースサーバー"
         name: "acesv"
+        fields:
+          - { label: "タイトル", name: "title", widget: "string" }
+          - { label: "このページの説明", name: "description", widget: "text" }
+          - { label: "本文", name: "body", widget: "markdown" }
+      - file: "site/content/blog/_index.md"
+        label: "ブログ"
+        name: "blog"
         fields:
           - { label: "タイトル", name: "title", widget: "string" }
           - { label: "このページの説明", name: "description", widget: "text" }
