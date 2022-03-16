@@ -31,7 +31,7 @@ pageindex: 4
 当サーバーのメイン鯖です。\
 ロビーのゲートから行くことができます。
 
-{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://main.mc.acecore.systems:5528/">ワールドマップへ</a>{{< /rawhtml >}}
+{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://main.mc.acecore.systems:5150/">ワールドマップへ</a>{{< /rawhtml >}}
 
 ### 市役所　X-235 Y64 Z123
 
