@@ -2,10 +2,12 @@
 
 {{ .Content }}
 
-{{ range (where .Pages "Section" "blog")}}
+<div class="row row-cols-md-4">
 
-<div class="card" style="width: 18rem;">
-  <img src="{{ .Params.thumbnail }}" class="card-img-top" alt="{{ .Params.thumbnailAlt }}">
+	{{ range (where .Pages "Section" "blog")}}
+<div class="col">
+<div class="card col" style="width: 100%;">
+  <img src="{{ .Params.thumbnail }}" class="card-img-top" style="object-fit: cover; height: 10rem;" alt="{{ .Params.thumbnailAlt }}">
   <div class="card-body">
     <h5 class="card-title">{{ .Title }}</h5>
 		<p>{{ .Date.Format "2006年1月2日" }}</p>
@@ -13,8 +15,12 @@
     <a href="{{ .Permalink }}" class="btn btn-primary">記事を読む</a>
   </div>
 </div>
-
+</div>
 {{ end }}
+
+</div>
+
+
 
 <div class="p-3"></div>
 
