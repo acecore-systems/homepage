@@ -10,8 +10,9 @@
   <img src="{{ .Params.thumbnail }}" class="card-img-top" style="object-fit: cover; height: 10rem;" alt="{{ .Params.thumbnailAlt }}">
   <div class="card-body">
     <h5 class="card-title">{{ .Title }}</h5>
-		<p>{{ .Date.Format "2006年1月2日" }}</p>
+		<p class="card-text">{{ .Date.Format "2006年1月2日" }}</p>
     <p class="card-text">{{ .Description }}</p>
+    <p class="card-text">{{ .Params.Author }}</p>
     <a href="{{ .Permalink }}" class="btn btn-primary">記事を読む</a>
   </div>
 </div>

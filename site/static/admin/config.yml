@@ -26,6 +26,7 @@ collections:
     fields: # ページ作成画面で使う。Front Matterの値を書く
       - { label: "タイトル", name: "title", widget: "string" }
       - { label: "記事の説明", name: "description", widget: "text" }
+      - { label: "作成者", name: "author", widget: "text" }
       - { label: "公開日", name: "publishDate", widget: "datetime"}
       - { label: "サムネイル画像", name: "thumbnail", widget: "image" }
       - { label: "サムネイル画像の説明", name: "thumbnailAlt", widget: "string"}
