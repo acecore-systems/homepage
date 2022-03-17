@@ -4,7 +4,7 @@
 
 <div class="row row-cols-1 row-cols-md-4">
 
-	{{ range (where .Pages "Section" "blog")}}
+	{{ range (where .Pages "Section" "article")}}
 <div class="col">
 <div class="card col" style="width: 100%;">
   <img src="{{ .Params.thumbnail }}" class="card-img-top" style="object-fit: cover; height: 7rem;" alt="{{ .Params.thumbnailAlt }}">
