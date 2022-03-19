@@ -59,7 +59,6 @@ collections:
 
   - label: "インデックスページ"
     name: "indexpage"
-    roles: "admin"
     files:
       - file: "site/content/_index.md"
         label: "ホームページ"
