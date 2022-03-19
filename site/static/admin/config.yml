@@ -59,12 +59,11 @@ collections:
 
   - label: "インデックスページ"
     name: "indexpage"
-    accept_roles: "admin"
+    roles: "admin"
     files:
       - file: "site/content/_index.md"
         label: "ホームページ"
         name: "home"
-        accept_roles: "admin"
         fields:
           - { label: "タイトル", name: "title", widget: "string" }
           - { label: "このページの説明", name: "description", widget: "text" }
@@ -72,7 +71,6 @@ collections:
       - file: "site/content/acesv/_index.md"
         label: "エースサーバー"
         name: "acesv"
-        accept_roles: admin
         fields:
           - { label: "タイトル", name: "title", widget: "string" }
           - { label: "このページの説明", name: "description", widget: "text" }
