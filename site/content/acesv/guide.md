@@ -27,7 +27,7 @@ pageindex: 4
 
 ### 概要
 
-当サーバーのメイン鯖です。\
+当サーバーのメイン鯖です。最新版に\
 ロビーのゲートから行くことができます。
 
 {{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://main.mc.acecore.systems:5150/">ワールドマップへ</a>{{< /rawhtml >}}
