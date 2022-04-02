@@ -27,7 +27,7 @@ pageindex: 4
 
 ### 概要
 
-当サーバーのメイン鯖です。つねに最新Ver.でJava版と統合版のクロスプレイに対応しており、ロビーのゲートから行くことができます。
+当サーバーのメインワールドです。つねに最新Ver.でJava版と統合版のクロスプレイに対応しており、ロビーのゲートから行くことができます。
 
 {{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://main.mc.acecore.systems:5150/">ワールドマップへ</a>{{< /rawhtml >}}
 
