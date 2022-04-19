@@ -25,3 +25,7 @@ hugoをインストールしsiteディレクトリで/hugoで起動します。
 フォルダ構成は基本的に以下の通りです。
 
 <https://gohugo.io/getting-started/directory-structure/#readout>
+
+## 公開先
+
+https://acecore.systems/acesv/
