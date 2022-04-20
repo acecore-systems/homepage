@@ -41,7 +41,7 @@ https://novablog.work/be-join-any-server/
 ## ディスコード連携方法
 
 1.以下のリンクからエースサーバーディスコードに参加する\
-https://discord.gg/dkrn6NtU5E
+https://discord.gg/acsv
 
 ﻿﻿※ディスコードのアカウントがない方は\
 PC版：https://discord.com
