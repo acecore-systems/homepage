@@ -43,7 +43,7 @@ https://novablog.work/be-join-any-server/
 1.以下のリンクからエースサーバーディスコードに参加する\
 <a class="btn btn-primary rounded-pill px-5" href="https://discord.gg/acsv">参加</a>
 
-<hr color="#AAA" size="2" noshade>
+<hr color="#AAA" size="3" noshade>
 
 ディスコードのアカウントがない・インストールしていない方は
 <style>
