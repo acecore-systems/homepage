@@ -46,12 +46,20 @@ https://novablog.work/be-join-any-server/
 <hr color="#AAA" size="2" noshade>
 
 ディスコードのアカウントがない・インストールしていない方は
-<br>
-<a class="btn btn-primary rounded-pill px-5" href="https://discord.com">PC版 - 公式サイト</a>
-<br>
-<a class="btn btn-primary rounded-pill px-5" href="https://play.google.com/store/apps/details?id=com.discord&hl=ja&gl=US">Android版 - GooglePlay</a>
-<br>
+<style>
+.button_margin {
+    margin-top: 1.5vh;
+}
+</style>
+<div class="button_margin">
+<a class="btn btn-primary rounded-pill px-5" href="https://discord.com">PC版 - 公式サイト</a><br>
+</div>
+<div class="button_margin">
+<a class="btn btn-primary rounded-pill px-5" href="https://play.google.com/store/apps/details?id=com.discord&hl=ja&gl=US">Android版 - GooglePlay</a><br>
+</div>
+<div class="button_margin">
 <a class="btn btn-primary rounded-pill px-5" href="https://apps.apple.com/jp/app/discord-%E8%A9%B1%E3%81%9D%E3%81%86-%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%97%E3%82%88%E3%81%86-%E9%9B%86%E3%81%BE%E3%82%8D%E3%81%86/id985746746">iOS版 - AppStore</a>
+</div>
 <hr color="#AAA" size="3" noshade>
 
 2.サーバーにログインし、エースタウンゲートを通り抜けた状態でコマンド「/discord link」を入力する
