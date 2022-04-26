@@ -131,6 +131,7 @@ pageindex: 2
 </ol>
 <hr noshade>
 </div>
+その他のクライアントを使用したい場合はDiscordにてご質問ください。
 
 ## BAN条件
 
