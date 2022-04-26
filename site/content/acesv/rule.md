@@ -89,6 +89,49 @@ pageindex: 2
 ・敵対モブに関しては他のプレイヤーや建築物に害が及ばない工夫をしたうえでの飼育をお願いたします。**正しガスト、ウィザーの2種の飼育に関しては攻撃による影響を考慮して禁止とさせていただきます**\
 ※実績解除のために現世に連れてくる事や召喚して倒す事に関しては場所を選んでいただいて、最終的に倒していただければ問題ございません
 
+## クライアント
+
+<style>
+.backglay {
+    Background-color: #fbfbfb;
+}
+</style>
+<div class="backglay">
+<hr noshade>
+許可<br>
+<ol>
+
+<li>Forge<br></li>
+<li>Fabric<br></li>
+<li>Lunar<br></li>
+<li>Badlion<br></li>
+</ol>
+<hr noshade>
+
+グレー<br>
+<ol>
+
+<li>Feather<br></li>
+</ol>
+<hr noshade>
+
+禁止<br>
+<ol>
+
+<li>WURST<br></li>
+<li>SIGMA<br></li>
+<li>LiquidBounce<br></li>
+<li>INERTIA<br></li>
+<li>Aristois<br></li>
+<li>Impact<br></li>
+<li>Konas<br></li>
+<li>Flare<br></li>
+<li>Zephyr(BE)<br></li>
+<li>Horion(BE)<br></li>
+</ol>
+<hr noshade>
+</div>
+
 ## BAN条件
 
 以下の行為を行ったプレイヤーはBAN（サーバー追放）処置させていただきます。
