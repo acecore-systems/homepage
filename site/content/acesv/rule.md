@@ -98,7 +98,7 @@ pageindex: 2
 </style>
 <div class="backglay">
 <hr noshade>
-許可<br>
+<b>許可</b><br>
 <ol>
 
 <li>Forge<br></li>
@@ -108,14 +108,14 @@ pageindex: 2
 </ol>
 <hr noshade>
 
-グレー<br>
+<b>グレー</b><br>
 <ol>
 
 <li>Feather<br></li>
 </ol>
 <hr noshade>
 
-禁止<br>
+<b>禁止</b><br>
 <ol>
 
 <li>WURST<br></li>
