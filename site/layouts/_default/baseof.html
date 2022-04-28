@@ -11,12 +11,11 @@
     {{- partial "header" . -}}
   </header>
 
-  <main class="bd-main bg-white px-3 px-xl-5 pt-1 pb-5 shadow">
+  <main class="bd-main bg-white {{ if ne .Params.style "full" }} px-3 px-xl-5 pt-3 pb-5 {{ end }} shadow">
 
     <div class="gcse-searchresults"></div>
     <style>
       .gsc-control-cse {
-        margin-top: 1.5rem;
         height: auto;
       }
       .gsc-control-wrapper-cse {
@@ -24,7 +23,6 @@
       }
     </style>
     
-
     {{- block "main" . }}
     {{ .Content }}
     {{- end }}
@@ -36,6 +34,7 @@
       (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
 
+    {{ if eq .Params.type "article" }}
     <div class="border-bottom my-5"></div>
 
     <div id="disqus_thread"></div>
@@ -57,9 +56,10 @@
       })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    {{ end }}
   </main>
 
-  <aside class="bd-aside sticky-xl-top align-self-start ms-xl-5">
+  <aside class="bd-aside sticky-top align-self-start d-none d-xl-block ms-5">
     <div class="shadow">
       {{- partial "sidemenu" . -}}
     </div>

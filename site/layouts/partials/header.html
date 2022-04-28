@@ -1,5 +1,5 @@
 <header>
-  <nav class="navbar navbar-expand-lg navbar-dark" style="background: linear-gradient(70deg, black, #000085)">
+  <nav class="navbar navbar-expand-xl navbar-dark" style="background: linear-gradient(70deg, black, #000085)">
     <div class="container-fluid">
       <a class="navbar-brand font-boo" href="/">
         AceCoreSystems
@@ -29,7 +29,7 @@
             </ul>
           </li>
           <li class="nav-item dropdown">
-            <a class='nav-link dropdown-toggle {{ if eq .Section "acesv" }} active {{ end }}' href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class='nav-link dropdown-toggle {{ if eq .Section "acesvmap" }} active {{ end }}' href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               <i class="bi bi-pin-map"></i>
               ワールドマップ
             </a>
@@ -54,7 +54,7 @@
             </a>
           </li>
           {{/*  Google検索  */}}
-          <li class="nav-item ms-lg-auto">
+          <li class="nav-item ms-xl-auto">
             <script async src="https://cse.google.com/cse.js?cx=e36f9b96e959038a7"></script>
             <div class="gcse-searchbox"></div>
             <style>
@@ -65,9 +65,9 @@
                 height: 40px;
               }
 
-              @media (min-width: 992px) {
-                .nav-item.ms-lg-auto {
-                  width: 40%;
+              @media (min-width: 1200px) {
+                .nav-item.ms-xl-auto {
+                  width: 39%;
                 }
               }
           
