@@ -1,5 +1,5 @@
 ---
-title: トップ
+title: エースサーバー-トップ
 description: エースサーバーホーム
 menu: メニュー
 pageindex: 0

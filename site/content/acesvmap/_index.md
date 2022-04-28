@@ -1,5 +1,5 @@
 ---
-title: トップ
+title: ワールドマップ-トップ
 description: ワールドマップ
 menu: メニュー
 pageindex: 0
