@@ -29,7 +29,7 @@ pageindex: 4
 
 当サーバーのメインワールドです。つねに最新Ver.でJava版と統合版のクロスプレイに対応しており、ロビーのゲートから行くことができます。
 
-{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://main.mc.acecore.systems:5150/">ワールドマップへ</a>{{< /rawhtml >}}
+{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="/acesvmap/survival">ワールドマップへ</a>{{< /rawhtml >}}
 
 ### 市役所　X-235 Y64 Z123
 
@@ -90,4 +90,4 @@ pageindex: 4
 現在ではメインワールドにプラグインを入れる前の実験をしたりするのに使用されています。\
 ロビーから誰でも入ることができますが、メインワールドではないので、問題が発生しても対応はしません。
 
-{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="http://azkaban.mc.acecore.systems:4154/">ワールドマップへ</a>{{< /rawhtml >}}
+{{< rawhtml >}}<a class="btn btn-primary rounded-pill px-5" href="/acesvmap/azkaban">ワールドマップへ</a>{{< /rawhtml >}}
