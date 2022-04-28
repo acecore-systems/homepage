@@ -1,17 +1,17 @@
 {{ define "main" }}
 
-{{ .Content }}
+	{{ .Content }}
 
-{{ range .Pages.ByParam "pageindex"}}
-{{ if eq .Params.menu "メニュー"}}
-<h2>{{ .Title }}</h2>
-<p>{{ .Description }}</p>
-<a class="btn btn-primary rounded-pill px-5" href="{{ .Permalink }}" role="button">{{ .Title }}ページへ</a>
-{{ end }}
-{{ end }}
+	{{ range .Pages.ByParam "pageindex"}}
+		{{ if eq .Params.menu "メニュー"}}
+			<h2>{{ .Title }}</h2>
+			<p>{{ .Description }}</p>
+			<a class="btn btn-primary rounded-pill px-5" href="{{ .Permalink }}" role="button">{{ .Title }}ページへ</a>
+		{{ end }}
+	{{ end }}
 
-<h2>公式Twitterからのツイート</h2>
+	<h2>公式Twitterからのツイート</h2>
 
-<a class="twitter-timeline" data-lang="ja" href="https://twitter.com/AceCoreS?ref_src=twsrc%5Etfw">Tweets by AceCoreS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<a class="twitter-timeline" data-lang="ja" href="https://twitter.com/AceCoreS?ref_src=twsrc%5Etfw">Tweets by AceCoreS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {{ end }}
