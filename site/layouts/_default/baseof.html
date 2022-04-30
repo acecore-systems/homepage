@@ -27,12 +27,16 @@
     {{ .Content }}
     {{- end }}
 
+    {{ if ne .Params.style "full" }}
+
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3935803464310919" crossorigin="anonymous"></script>
     <!-- デフォルト広告 -->
     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3935803464310919" data-ad-slot="4636174036" data-ad-format="auto" data-full-width-responsive="true"></ins>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
+
+    {{ end }}
 
     {{ if eq .Params.type "article" }}
     <div class="border-bottom my-5"></div>
