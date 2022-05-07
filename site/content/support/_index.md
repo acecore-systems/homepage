@@ -14,3 +14,7 @@ pageindex: 0
 
 エースコアシステムズの活動をご支援いただけると幸いです。\
 クレジットカード・デビットカード・PayPal支払いが可能です。
+
+## エースサーバー支援物資リスト
+
+https://www.amazon.jp/hz/wishlist/ls/1CIN8U203QT6X?ref_=wl_share
