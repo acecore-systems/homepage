@@ -4,10 +4,8 @@
 
 {{ if eq .Params.pageindex 1}}
   {{- partial "support-onetime" . -}}
-{{ else if eq .Params.pageindex 2}}
-  {{- partial "support-continue-500" . -}}
-{{ else if eq .Params.pageindex 3}}
-  {{- partial "support-continue-1000" . -}}
+{{ else }}
+  {{- partial "support-continue" . -}}
 {{ end }}
 
 {{ end }}

@@ -17,7 +17,7 @@
     },
     createSubscription: function (data, actions) {
       return actions.subscription.create({
-        'plan_id': 'P-5KB25906TT349022FMBBTIHA'
+        'plan_id': '{{ .Params.planId }}'
       });
     },
     onApprove: function (data, actions) {
