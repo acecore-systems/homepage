@@ -3,6 +3,5 @@ title: サバイバル
 description: サバイバルマップ
 menu: メニュー
 pageindex: 1
-directory: survival
-style: full
 ---
+# 現在閲覧不能です。
