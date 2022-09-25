@@ -25,7 +25,7 @@ pageindex: 3
 以下のサーバーアドレスとポート番号を指定して、参加してください
 
 サーバーアドレス：**secmc.acecore.systems**\
-ポート番号：**5995**
+ポート番号：**19132**
 
 Xbox One、スイッチ、PS4 で参加する場合は以下のリンクを参照してください\
 https://novablog.work/be-join-any-server/
